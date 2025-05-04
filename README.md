@@ -11,7 +11,7 @@ Acesse o projeto online: [Link para o site](https://seu-usuario.github.io/Premia
 - JavaScript
 
 ## 📸 Imagem do projeto
-![Logo do PremiaNet]!(/img/Logo.png)
+![Logo do PremiaNet](img/Logo.png)
 
 ## 💻 Como rodar o projeto
 
