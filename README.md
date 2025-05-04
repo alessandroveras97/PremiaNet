@@ -17,4 +17,4 @@ Acesse o projeto online: [Link para o site]git clone https://github.com/alessand
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/PremiaNet.git
+   git clone https://github.com/alessandroveras97/PremiaNet.git
