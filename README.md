@@ -1,9 +1,13 @@
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 # PremiaNet
 
 PremiaNet é um site desenvolvido para oferecer uma experiência de navegação rápida e moderna, utilizando HTML, CSS e JavaScript. O objetivo é proporcionar uma interface amigável para os usuários, com foco em design e usabilidade.
 
 ## 🚀 Demonstração
-Acesse o projeto online: [Link para o site]git clone https://github.com/alessandroveras97/PremiaNet.git
+Acesse o projeto online: [PremiaNet](https://alessandroveras97.github.io/PremiaNet/)
 
 ## 🛠️ Tecnologias usadas
 - HTML
