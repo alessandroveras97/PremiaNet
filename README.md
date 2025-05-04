@@ -3,7 +3,7 @@
 PremiaNet é um site desenvolvido para oferecer uma experiência de navegação rápida e moderna, utilizando HTML, CSS e JavaScript. O objetivo é proporcionar uma interface amigável para os usuários, com foco em design e usabilidade.
 
 ## 🚀 Demonstração
-Acesse o projeto online: [Link para o site](https://seu-usuario.github.io/PremiaNet)
+Acesse o projeto online: [Link para o site]git clone https://github.com/alessandroveras97/PremiaNet.git
 
 ## 🛠️ Tecnologias usadas
 - HTML
