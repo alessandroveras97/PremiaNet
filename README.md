@@ -20,7 +20,7 @@ Acesse o projeto online: [PremiaNet](https://alessandroveras97.github.io/PremiaN
 - JavaScript
 
 ## 📸 Imagem do projeto
-![Logo do PremiaNet](img/Logo.png)
+![Logo do PremiaNet](img/1.png)
 
 ## 💻 Como rodar o projeto
 
