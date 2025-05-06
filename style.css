@@ -29,7 +29,8 @@ h1 {
     text-align: center;
     margin-top: -126px;
     margin-bottom: 26px;
-
+    background: #b81414;
+    border-radius: 10px;
 }
 input{
     background: rgba(255, 255, 255, 0.25);
@@ -42,6 +43,9 @@ input{
     line-height: 47px;
     color: #ffffff;
     opacity: 0.7;
+}
+input:hover{
+    border: 3px solid #ffffff;
 }
 
 .input-min{
@@ -63,9 +67,11 @@ button {
 }
 button:hover{
     opacity: 0.9;
+    background: #39FF14;
 }
 button:active{
     opacity: 0.8;
+    background: #FF0000;
 }
 .bot{
     margin-top: auto;
